@@ -11,4 +11,4 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4739132/
 We generated a Pinecone vector store from these guidelines to use for Retrieval Augmented Generation (RAG)
 
 ## Architecture
-![image](method-schematic.pdf)
+![image](method-schematic.png)
